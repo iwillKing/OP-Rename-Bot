@@ -10,7 +10,7 @@ async def take_screen_shot(video_file, output_directory, ttl) -> Optional[str]:
     """
     Take Screenshot from Video.
 
-    Source: https://stackoverflow.com/a/13891070/4723940
+    Source: https://t.me/horn_support
 
     :param video_file: Pass Video File Path.
     :param output_directory: Pass output folder path for screenshot. If folders not exists, this will create folders.
